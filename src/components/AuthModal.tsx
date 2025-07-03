@@ -215,9 +215,9 @@ export function AuthModal() {
         {isLogin && (
           <div className="mt-4 p-3 bg-blue-50 rounded-lg">
             <p className="text-sm text-blue-700">
-              <strong>Admin Login:</strong><br />
-              Email: gauravsureel3551@gmail.com<br />
-              Password: 1234567
+              <strong></strong><br />
+              <br />
+              
             </p>
           </div>
         )}
